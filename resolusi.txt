@@ -4,7 +4,6 @@ Sandy resolusi web dev start januari 2022:
 - Belajar javascript
 - Belajar framework css & js
 - Buat web sistem login
-- Ini nanti akan saya hapus
 - Membuat web manajemen wedding invitation
 - Build portfolio
 - Bangun relasi
