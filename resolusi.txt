@@ -1,0 +1,6 @@
+Sandy resolusi web dev start januari 2022:
+- Belajar html
+- Belajar css
+- Belajar javascript
+- Belajar framework
+- Membuat web manajemen wedding invitation
